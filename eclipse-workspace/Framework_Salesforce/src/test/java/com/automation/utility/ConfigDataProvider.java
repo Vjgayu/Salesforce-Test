@@ -17,7 +17,6 @@ public class ConfigDataProvider {
 		} 
 		catch (Exception e) {
 					System.out.println("Not able to load config file>>"+e.getMessage());
-	
 		}
 	}	
 
